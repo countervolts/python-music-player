@@ -27,7 +27,7 @@ git clone https://github.com/countervolts/python-music-player.git
 2. Change into the project directory:
 
 ```shell
-cd music-player
+cd python-music-player
 ```
 
 3. Install the required libraries:
